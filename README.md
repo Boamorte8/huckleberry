@@ -60,6 +60,8 @@ You can visit `http://localhost:9000` to view the page. You should see a bunch o
 
 That said: Don't worry if you can't create a pixel-perfect recreation. In the solution video, I'll show you exactly how I did it. Spend an hour or so on this project, and submit whatever you have at that point.
 
+[Figma files](https://www.figma.com/file/6hGqKA5scrZJScb9KW3Hj2/Huckleberry?type=design&t=VNiLtYoeCqYeKDU6-6)
+
 ## Design tokens
 
 In the early days of the web, sites would be built largely on "feel". Colors and sizes would be chosen based on the whims of the moment. This led to some very inconsistent-looking websites!
